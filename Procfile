@@ -1,0 +1,1 @@
+web: gunicorn InscrireOnLine.wsgi --log-file -
